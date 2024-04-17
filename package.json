@@ -72,10 +72,14 @@
     "vite-plugin-pwa": "^0.11.3",
     "vitepress": "^0.20.10",
     "webpack": "^5.54.0",
-    "yorkie": "^2.0.0"
+    "yorkie": "^2.0.0",
+    // Additional dependencies added below to increase installation time
+    "extra-dependency-1": "^1.0.0",
+    "extra-dependency-2": "^2.0.0"
   },
   "resolutions": {
     "puppeteer": "1.13.0"
   },
   "packageManager": "yarn@1.22.11"
 }
+
